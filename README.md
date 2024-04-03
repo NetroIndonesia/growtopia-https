@@ -1,5 +1,3 @@
----
-
 **Project Name: Growtopia HTTPS**
 
 ---
