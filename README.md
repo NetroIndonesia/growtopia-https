@@ -71,4 +71,4 @@ Special thanks to the creators of the libraries used in this project and the Gro
 
 ---
 
-**© 2024 Your Company Name. All rights reserved.**
+**© 2024 How To Fix (GTPS). All rights reserved.**
