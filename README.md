@@ -39,9 +39,21 @@ This project provides a secure server for the popular game Growtopia. It utilize
 - **Caching:**
   - Caches frequently requested content for improved performance.
 
+- **Request Logging:**
+  - Logs incoming requests with timestamps for monitoring and debugging.
+
+- **Proxy Attack Detection:**
+  - Detects and mitigates potential proxy-based DDoS attacks.
+
+- **Dynamic Configuration Loading:**
+  - Loads server configuration dynamically from a JSON file.
+
+- **Content Delivery:**
+  - Efficiently serves content with cache support and handling of missing files.
+
 ---
 
-### Endpoint:
+### Endpoints:
 
 - **Server Data Endpoint:**
   - `/growtopia/server_data.php`
@@ -55,6 +67,8 @@ This project provides a secure server for the popular game Growtopia. It utilize
 
 ### Dependencies:
 - OpenSSL: Library for SSL/TLS support.
+- nlohmann/json: Library for JSON handling.
+- cpp-httplib: C++ HTTP library.
 
 ---
 
@@ -62,8 +76,10 @@ This project provides a secure server for the popular game Growtopia. It utilize
 This project is licensed under the [MIT License](LICENSE).
 
 ---
+
 ### Contact:
 For any inquiries or support, please contact our [Telegram Channel](https://t.me/htfgtps).
+
 ---
 
 ### Acknowledgements:
