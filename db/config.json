@@ -1,5 +1,6 @@
 {
   "server": "127.0.0.1",
-  "port": 17091,
-  "meta": "beta.growtopiagame.com"
+  "port": 17092,
+  "meta": "beta.growtopiagame.com",
+  "loginurl": "login.creativeps.eu"
 }
