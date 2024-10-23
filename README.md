@@ -86,7 +86,10 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ### Contact:
-For support or inquiries, please reach out to us via our [Telegram Channel](https://t.me/htfgtps).
+### Social Media: 📡    
+Join me on Telegram.
+
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/htfgtps)
 
 ---
 
