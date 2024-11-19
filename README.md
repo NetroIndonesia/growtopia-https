@@ -33,7 +33,7 @@ Growtopia HTTPS provides a secure server for the popular game Growtopia, ensurin
   - Implements safeguards against excessive requests from individual IP addresses.
 
 - **IP Blacklisting:**
-  - Blocks malicious IP addresses dynamically. Update `blacklist.txt` with IPs to block them.
+  - Blocks malicious IP addresses dynamically.
 
 - **Request Filtering:**
   - Filters harmful HTTP methods and rejects oversized requests to protect server integrity.
